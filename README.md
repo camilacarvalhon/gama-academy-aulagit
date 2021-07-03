@@ -1,0 +1,1 @@
+Referente aos módulos apresentados pela Gama Academy, em especial sobre Git e GitHub, verifico que os conteúdos abordados contribuem de forma significativa para os meus conhecimentos.
